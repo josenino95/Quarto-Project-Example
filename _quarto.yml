@@ -1,5 +1,6 @@
 project: 
   title: "my-R-project.Rproj"
+  execute-dir: project
   
 editor: visual
 
